@@ -1,7 +1,7 @@
 # Bootstrap 3 Landing page  
 # Project: Bootstrap 3 & HTML & CSS 
 Creating a Starup landing page code along 
-**Live Preview** of the page is [here]()
+**Live Preview** of the page is [here](https://eevacc.github.io/dog-lover-dating-app-landing-page/.)
 ## Outcome
 #### Bootstrap 3
 #### CSS
