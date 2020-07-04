@@ -10,10 +10,7 @@ body {
     background-size: cover;
     font-family: 'Lato', sans-serif;
     color: white;
-    background-attachment: fixed;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
+   
     background-size: cover;
     background-position: center center;
     max-width: 100%;
